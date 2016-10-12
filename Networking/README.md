@@ -1,5 +1,4 @@
-#General Networking Commands
-
+#General Networking Snippits
 
 ##MAC Address
 ####Retrieve MAC Address
